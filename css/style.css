@@ -3,6 +3,9 @@ h1{
 	font-size: 99px;
 	border: 10px dashed red;
 }
+h2{
+	color: orange;
+}
 p{
 	color: red;
 	font-family: verdana;
