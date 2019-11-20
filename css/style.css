@@ -1,0 +1,29 @@
+h1{
+	color: blue;
+	font-size: 99px;
+	border: 10px dashed red;
+}
+p{
+	color: red;
+	font-family: verdana;
+	font-size: 18px;
+	line-height: 1.5;
+	text-align: left;
+	text-indent: 36px;
+	text-decoration: underline;
+}
+
+.style1{
+	color: blue;
+}
+a{
+	font-size: 99px;
+	border-bottom: 50px solid #000;
+}
+a:hover{
+	color:gray;
+	border-bottom: 100px solid #000;
+}
+a:active{
+	color:yellow;
+}
