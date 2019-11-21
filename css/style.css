@@ -15,6 +15,9 @@ p{
 	text-indent: 36px;
 	text-decoration: underline;
 }
+li:first-child{
+	color:brown;
+}
 
 .style1{
 	color: blue;
